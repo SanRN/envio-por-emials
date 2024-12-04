@@ -1,6 +1,4 @@
-Aquí tienes el contenido estructurado y formateado para un archivo `.md`:
 
-```markdown
 # Configuración y Ejecución de la API
 
 ## Comando de Ejecución

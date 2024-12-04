@@ -1,6 +1,14 @@
 
 # Configuración y Ejecución de la API
 
+## Instalación de Dependencias
+
+Antes de ejecutar la API, asegúrate de instalar las dependencias necesarias. Ejecuta el siguiente comando en la terminal dentro del directorio del proyecto:
+
+```bash
+npm i
+```
+
 ## Comando de Ejecución
 
 Para iniciar la API, utiliza el siguiente comando en la terminal:

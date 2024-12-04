@@ -8,8 +8,8 @@ app.use(express.json());
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'santiagobg0203@gmail.com', // Tu cuenta de Gmail
-      pass: 'nfbn vedb wqpk mtnn', // Tu contraseña de Gmail (o token de OAuth2 si es necesario)
+      user: ' Tu cuenta de Gmail', // Tu cuenta de Gmail
+      pass: 'Tu contraseña de Gmail', // Tu contraseña de Gmail (o token de OAuth2 si es necesario)
     },
   });
 

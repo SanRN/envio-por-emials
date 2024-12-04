@@ -65,8 +65,8 @@ Para el envío de correos, se utiliza `nodemailer` con la siguiente configuraci�
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'santiagobg0203@gmail.com', // Tu cuenta de Gmail
-    pass: 'nfbn vedb wqpk mtnn',      // Contraseña de aplicación de Google
+    user: 'Tu cuenta de Gmail', 
+    pass: 'Contraseña de aplicación de Google',      
   },
 });
 ```
